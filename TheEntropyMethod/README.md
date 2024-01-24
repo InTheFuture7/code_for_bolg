@@ -11,7 +11,7 @@
 
 ## 安装 
 
-这个项目使用 [MATLAB](https://ww2.mathworks.cn/products/matlab.html) 。请确保你在本地安装了它。
+代码在 [MATLAB](https://ww2.mathworks.cn/products/matlab.html)2020b 上测试。请确保你在本地安装了它。
 
 
 ## 用法
