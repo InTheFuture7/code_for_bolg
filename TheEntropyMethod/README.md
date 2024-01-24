@@ -22,14 +22,4 @@
 
 ## 许可证
 
-> **状态:** 必须
->
-> **要求:**
->
-> - 声明许可证全名或标识符, 参考[SPDX](https://spdx.org/licenses/) 许可证列表上的. 对于未授权的存储库, 添加 `UNLICENSED`. 更多详情，请参见 `SEE LICENSE IN <filename>`  并链接到许可文件. (这些要求是从 [npm](https://docs.npmjs.com/files/package.json#license)继承过来的).
-> - 声明许可证持有人.
-> - 一定是最后一部分.
->
-> **建议:**
->
-> - 链接到本地存储库中较长的许可证文件
+BSD Zero Clause License
