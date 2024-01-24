@@ -6,10 +6,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/InTheFuture7/code_for_bolg?style=flat&logo=github)
 
 
-![GitHub License](https://img.shields.io/github/license/InTheFuture7/code_for_bolg?style=flat&logo=github)
-
-
-
 利用熵值法分析面板数据，为指标客观赋权，从而得出分析对象的综合得分，并针对2014-2019年某省部分城市19个指标为例使用熵值法分析。
 
 
@@ -37,10 +33,3 @@
 > **建议:**
 >
 > - 链接到本地存储库中较长的许可证文件
-
-
-
-
-熵值法代码及样例数据
-
-https://blog.csdn.net/what_how_why2020/article/details/120354472
